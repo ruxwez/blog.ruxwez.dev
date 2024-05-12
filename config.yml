@@ -35,9 +35,6 @@ languages:
         - name: Buscar
           url: search/
           weight: 10
-        - name: Etiquetas
-          url: tags/
-          weight: 10
         - name: Github
           url: https://github.com/ruxwez
 
